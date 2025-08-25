@@ -10,7 +10,7 @@ bundle: {
 	instances: {
 		podinfo: {
 			module: {
-				url:     "oci://ghrc.io/nalum/timoni/modules/oci"
+				url:     "oci://ghcr.io/nalum/timoni/modules/oci"
 				version: "0.1.0"
 			}
 			namespace: "flux-system"
